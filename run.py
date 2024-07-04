@@ -1,3 +1,3 @@
 import os
-import wp
-wp.loging()
+import warp
+warp.loging()
